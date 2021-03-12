@@ -6,7 +6,8 @@ Make sure you have Node and npm installed. Then run,
 ```npm install```
 to install the dependencies
 
-If you simply want to use the file containing the assets, simply
+If you simply want to use the file containing the assets, simply run
+
 ```wget https://github.com/payloadartist/recon/raw/main/assets.txt```
 
 # ⚙️ Usage
