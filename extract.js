@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+// Author: Arif Khan (@payloadartist)
+
 const got = require('got');
 const fs = require('fs');
 const cheerio = require('cheerio');
