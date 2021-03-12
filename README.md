@@ -1,5 +1,6 @@
 # 🕵🏾 recon
-This script weaponizes the power of scraping to collect assets for the Apple bug bounty program's acknowledgements page.
+This script weaponizes the power of web scraping to collect assets from the Apple bug bounty program's acknowledgements page.
+Since Apple's program doesn't have a well defined scope, the assets collected here can be used as a point of reference to perform further testing or, recon.
 
 # ⚒️ Install
 Make sure you have Node and npm installed. Then run,
