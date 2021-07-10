@@ -25,4 +25,4 @@ It will also output to stdout, for piping to other tools.
 
 # 🙌 Credits
 
-[Arif Khan](https://twitter.com/payloadartist)
+[@payloadartist](https://twitter.com/payloadartist)
