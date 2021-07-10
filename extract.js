@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Author: Arif Khan (@payloadartist)
+// Author: @payloadartist
 
 const got = require('got');
 const fs = require('fs');
