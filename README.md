@@ -2,6 +2,9 @@
 This script weaponizes the power of web scraping to collect assets from the Apple bug bounty program's acknowledgements page.
 Since Apple's program doesn't have a well defined scope, the assets collected here can be used as a point of reference to perform further testing or, recon.
 
+# Update
+As of November 2022, Apple has changed their security acknowledgements page. Mentions of vulnerable hosts are removed in latest versions of the security acknowledgement pages. As such, this tool is not working anymore.
+
 # ⚒️ Install
 Make sure you have Node and npm installed. Then run,
 ```npm install```
